@@ -1,5 +1,5 @@
 # Pandas-exercises
-Collection of pandas exercises from various sources to MASTER IN BIG DATA ANALYTICS 
+Collection of pandas exercises from various sources from my MASTER IN BIG DATA ANALYTICS 
 
 
 
